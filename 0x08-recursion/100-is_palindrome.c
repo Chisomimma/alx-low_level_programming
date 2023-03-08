@@ -43,4 +43,3 @@ if (i >= len)
 return (1);
 return (check_pal(s, i + 1, len - 1));
 }
-
