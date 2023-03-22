@@ -14,6 +14,7 @@ FYI: The standard library provides a similar function: strcat. Run man strcat to
 1. strncat
 
 Write a function that concatenates two strings.
+
 Prototype: char *_strncat(char *dest, char *src, int n);
 The _strncat function is similar to the _strcat function, except that
 it will use at most n bytes from src; and
@@ -134,5 +135,4 @@ You are not allowed to use ,
 	Each line ends with a new line \n
 	If size is 0 or less, the output should be a new line only \n
 	You are allowed to use the standard library
-	The output should look like the following example, and formatted exactly the same way
->>>>>>> c2485684533d0fd471eb61928916ed8880854d51
+	The output should look like the following example, and formatted exactly the way.
